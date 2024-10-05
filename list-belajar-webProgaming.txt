@@ -4,3 +4,6 @@ yang sudah belajar
 - JS (PROSES)
 yang belum belajar
 - PHP
+- PYHTON
+- RUBY
+- NODE JS
