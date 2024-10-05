@@ -2,6 +2,7 @@ yang sudah belajar
 - HTML
 - CSS
 - JS (PROSES)
+- GITHUB (PROSES)
 yang belum belajar
 - PHP
 - PYHTON
