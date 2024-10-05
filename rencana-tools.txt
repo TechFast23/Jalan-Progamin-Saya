@@ -1,0 +1,9 @@
+tools yang sudah ada
+- laptop (Lenovo)
+- mouse (Fantech)
+- handphone (Realme 2 pro)
+tools yang belum ada atau yang ingin di beli
+- komputer (rakit pc)
+- hanphone (Xiomi)
+- multi meter
+- esp32
