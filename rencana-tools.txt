@@ -3,7 +3,6 @@ tools yang sudah ada
 - mouse (Fantech)
 - handphone (Realme 2 pro)
 tools yang belum ada atau yang ingin di beli
-- komputer (rakit pc)
+- komputer (rakit pc RTX 990)
 - hanphone (Xiomi)
 - multi meter
-- esp32
